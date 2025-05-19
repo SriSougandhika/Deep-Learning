@@ -125,3 +125,6 @@ This notebook focuses on classifying fashion items (like shirts, shoes, bags) us
 * Simple training loop and evaluation
 
 ---
+
+## 🙌 Credits
+Project by Sri – an aspiring Data Scientist exploring AI in creative ways!
